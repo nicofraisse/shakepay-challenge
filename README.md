@@ -13,7 +13,6 @@
 - Add UI features in the chart to zoom in, show months etc.
 - Improve formatting in the tooltips when we hovoer over transactions 
 
-
 ## Features
 - Used the API provided to get data
 - Loading UI (a spinner shows while the data is being fetched)
