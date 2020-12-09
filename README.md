@@ -15,14 +15,14 @@
 
 
 ## Features
-- Javascript framework used: React.js
-- CSS framework used: Bootstrap
-- Chart library used: chart.js
 - Used the API provided to get data
 - Loading UI (a spinner shows while the data is being fetched)
 - Error handling (an alert displaying the error message appears if fetching the data is unsuccesful)
 
 ## Libraries & ressources used
+- Javascript framework used: React.js
+- CSS framework used: Bootstrap
+- Chart library used: chart.js
 - axios for API calls
 - Bootstrap for diverse UI components such as alerts/spinner. 
 - CSS modules for ensuring each class name is scoped to its own component
