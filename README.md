@@ -9,9 +9,8 @@
 
 ## Possible improvements
 
-- Optional part with real market rate at transaction time (currently doing)
-- Add UI features in the chart to zoom in, show months etc.
-- Improve formatting in the tooltips when we hovoer over transactions 
+- UI tools in the chart to zoom in, show months etc.
+- Formatting in the tooltips when we hovoer over transactions 
 
 ## Features
 - Chart is here and displays net worh over time
